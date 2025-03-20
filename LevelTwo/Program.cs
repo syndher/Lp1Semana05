@@ -11,7 +11,7 @@ using SoGoodLib;
 
         static void Main (string[] args)
             {   
-
+                
                 CanvasImage image = new CanvasImage(".\\tux.jpg");
                 image.MaxWidth(20);
                 if (args.Length > 0) {
