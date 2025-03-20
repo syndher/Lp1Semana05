@@ -12,6 +12,7 @@ namespace LevelOne
         {
             Console.WriteLine("Hello LP1!");
             Console.WriteLine("Bad day?");
+            Console.WriteLine("Nice day!");
         }
         /// <summary>
         /// Cool Feature method
