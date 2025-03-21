@@ -12,7 +12,7 @@ using Bogus;
 
         static void Main (string[] args)
             {   
-                Console.WriteLine(BarChart.car);
+                Console.WriteLine(BarChartCars.orders);
 
             
                 

@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarStats", "CarStats.csproj", "{AA6FD9B8-607A-75B5-6FE8-C7D96541EF0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarChart", "BarChart\BarChart.csproj", "{EFC29450-7350-566B-F235-D5D38535B47C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA6FD9B8-607A-75B5-6FE8-C7D96541EF0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA6FD9B8-607A-75B5-6FE8-C7D96541EF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA6FD9B8-607A-75B5-6FE8-C7D96541EF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA6FD9B8-607A-75B5-6FE8-C7D96541EF0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC29450-7350-566B-F235-D5D38535B47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC29450-7350-566B-F235-D5D38535B47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC29450-7350-566B-F235-D5D38535B47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC29450-7350-566B-F235-D5D38535B47C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4ADA640-18B8-4293-AF93-682C10861E88}
+	EndGlobalSection
+EndGlobal
